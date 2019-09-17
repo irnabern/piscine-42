@@ -1,0 +1,5 @@
+Credentials cache: API:C5FD5A69-5CE2-4EA9-87AC-9EF689CB86B5
+        Principal: bbatumik@42.FR
+
+  Issued                Expires               Principal
+Aug 27 14:31:00 2019  Sep  3 14:30:45 2019  krbtgt/42.FR@42.FR
